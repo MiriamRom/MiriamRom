@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MiriamRom
 - 👀 I’m interested in Science, Tech and Psicology
-- 🌱 I’m currently learning BackEnd, Data Science and Go.
+- 🌱 I’m currently learning Data Infrastructure, Data Science and PySpark.
 - 📫 How to reach me, romerocm00@gmail.com or www.linkedin.com/in/miriamromeroc 
